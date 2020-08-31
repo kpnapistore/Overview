@@ -1,2 +1,17 @@
 # Overview
-Information about the KPN API Store, the repositories with documentations, OAS specifications, etc 
+
+Welcome to the KPN API Store gitHub repositories. The repositories contain OAS specifications and Postman collections of the APIs, sample code of tutorials, etc.
+
+## Versioning
+
+The projects adheres to [Semantic Versioning](https://semver.org/). (do they?)
+
+
+## Change Logs
+
+The change log follow [keepachangelog.com](https://keepachangelog.com/) recommendations.
+
+## Repositories
+
+
+
