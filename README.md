@@ -4,7 +4,7 @@ Welcome to the KPN API Store gitHub repositories. The repositories contain OAS s
 
 ## Versioning
 
-The projects adheres to [Semantic Versioning](https://semver.org/). (do they?)
+The projects adhere to [Semantic Versioning](https://semver.org/). (do they?)
 
 
 ## Change Logs
