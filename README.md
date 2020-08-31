@@ -9,7 +9,7 @@ The projects adheres to [Semantic Versioning](https://semver.org/). (do they?)
 
 ## Change Logs
 
-The change log follow [keepachangelog.com](https://keepachangelog.com/) recommendations.
+The change logs follow [keepachangelog.com](https://keepachangelog.com/) recommendations.
 
 ## Repositories
 
