@@ -13,5 +13,13 @@ The change logs follow [keepachangelog.com](https://keepachangelog.com/) recomme
 
 ## Repositories
 
+- aaa
+- bbb
+- ccc
 
+## Tutorial sample code
+
+- aaa
+- bbb
+- ccc
 
