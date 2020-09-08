@@ -19,7 +19,7 @@ The change logs follow [keepachangelog.com](https://keepachangelog.com/) recomme
 
 ## Tutorial sample code
 
-- aaa
+- [Send_SMS_with_Node-RED_flow.json](https://github.com/kpnapistore/SMS-KPN/tree/master/Tutorial_code_samples)
 - bbb
 - ccc
 
