@@ -20,6 +20,6 @@ The change logs follow [keepachangelog.com](https://keepachangelog.com/) recomme
 ## Tutorial sample code
 
 - [Send_SMS_with_Node-RED_flow.json](https://github.com/kpnapistore/SMS-KPN/tree/master/Tutorial_code_samples)
-- bbb
-- ccc
+- [Tutorial_WeSeeDo-Direct_with_Node-RED_flows](https://github.com/kpnapistore/WeSeeDo_Direct-WeSeeDo/tree/master/Tutorial_code_samples)
+- [Tutorial_Registered-Email_with_Node-RED]
 
