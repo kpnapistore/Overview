@@ -1,3 +1,5 @@
+[![Logo](/media/api-store-logo.png)](https://developer.kpn.com)
+
 # Overview
 
 Welcome to the KPN API Store GitHub repositories. The repositories contain OAS specifications and Postman collections of the APIs, sample code of tutorials, etc.
