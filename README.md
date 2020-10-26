@@ -1,6 +1,6 @@
 # Overview
 
-Welcome to the KPN API Store gitHub repositories. The repositories contain OAS specifications and Postman collections of the APIs, sample code of tutorials, etc.
+Welcome to the KPN API Store GitHub repositories. The repositories contain OAS specifications and Postman collections of the APIs, sample code of tutorials, etc.
 
 ## Tutorial sample code
 
